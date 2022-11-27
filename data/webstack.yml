@@ -1,16 +1,12 @@
 ---
 
-- taxonomy: 常用推荐
+- taxonomy: 我的日常
   icon: far fa-star
   links: 
     - title: Notion
-      logo: 
+      logo: notion.png
       url: https://notion.so
       description: Notion
-    - title: 公众号平台
-      logo: 微信公众号.png
-      url: https://mp.weixin.qq.com/
-      description: 再小的个体也有自己的品牌。
     - title: Todoist
       logo: todoist.png
       url: https://todoist.com
@@ -19,33 +15,56 @@
       logo: github.jpg
       url: https://github.com/
       description: GitHub 开源社区。
-    - title: 知乎
-      logo: 知乎.png
-      url: https://www.zhihu.com/
-      description: 知乎社区。
+    - title: Twitter
+      logo: twitter.png
+      url: https://twitter.com/iamshaynez
+      description: You will need a place to talk.
 
 
 - taxonomy: 科研办公
   icon: fas fa-flask fa-lg
   list:
-    - term: 办公学习
+    - term: 在线工具
       links:
-        - title: 有道词典
-          logo: 有道词典.png
-          url: https://www.youdao.com/
-          description: 免费，即时的多语种在线翻译。
-        - title: 有道翻译
-          logo: 有道词典.png
-          url: http://fanyi.youdao.com/
-          description: 有道翻译。
-        - title: 谷歌翻译
-          logo: 谷歌翻译.jpg
-          url: https://translate.google.cn/
-          description: 谷歌翻译。
+        - title: tinypng
+          url: https://tinypng.com/
+          logo: tinypng.png
+          description: Optimize your images with a perfect balance in quality and file size.
+        - title: goqr
+          url: http://goqr.me/
+          logo: goqr.png
+          description: create QR codes for free (Logo, T-Shirt, vCard, EPS).
+        - title: ezgif
+          url: https://ezgif.com
+          logo: ezgif.png
+          description: simple online GIF maker and toolset for basic animated GIF editing.
+        - title: Android 9 patch
+          url: http://inloop.github.io/shadow4android/
+          logo: Android9patch.png
+          description: Android 9-patch shadow generator fully customizable shadows.
+        - title: screen sizes
+          url: http://screensiz.es/
+          logo: screensizes.png
+          description: Viewport Sizes and Pixel Densities for Popular Devices.
+        - title: svgomg
+          url: https://jakearchibald.github.io/svgomg/
+          logo: svgomg.png
+          description: SVG 在线压缩平台。
+        - title: 稿定抠图
+          url: https://www.gaoding.com
+          logo: gaoding.png
+          description: 免费在线抠图软件,图片快速换背景-抠白底图。
         - title: ProcessOn
           logo: ProcessOn.png
           url: https://www.processon.com/
           description: 免费在线作图、实时协作。
+    - term: 重要服务
+      links:
+        - title: Cloudflare
+          url: https://www.cloudflare.com/
+          logo: cloudflare.png
+          description: Best network service ever.
+
         
 
 - taxonomy: 悠闲娱乐
@@ -81,53 +100,11 @@
           logo: 电影天堂.png
           url: https://www.olevod.com
           description: 欧乐影院
-    - term: 游戏竞技
-      links:
-        - title: 百度贴吧
-          logo: 百度贴吧.jpg
-          url: ttps://tieba.baidu.com/index.html
-          description: 百度贴吧。
-        - title: 台服战地
-          logo: 战地之王.png
-          url: https://ava.mangot5.com/ava/index
-          description: 台服 AVA 战地之王。
-    - term: 在线工具
-      links:
-        - title: tinypng
-          url: https://tinypng.com/
-          logo: tinypng.png
-          description: Optimize your images with a perfect balance in quality and file size.
-        - title: goqr
-          url: http://goqr.me/
-          logo: goqr.png
-          description: create QR codes for free (Logo, T-Shirt, vCard, EPS).
-        - title: ezgif
-          url: https://ezgif.com
-          logo: ezgif.png
-          description: simple online GIF maker and toolset for basic animated GIF editing.
-        - title: Android 9 patch
-          url: http://inloop.github.io/shadow4android/
-          logo: Android9patch.png
-          description: Android 9-patch shadow generator fully customizable shadows.
-        - title: screen sizes
-          url: http://screensiz.es/
-          logo: screensizes.png
-          description: Viewport Sizes and Pixel Densities for Popular Devices.
-        - title: svgomg
-          url: https://jakearchibald.github.io/svgomg/
-          logo: svgomg.png
-          description: SVG 在线压缩平台。
-        - title: 稿定抠图
-          url: https://www.gaoding.com
-          logo: gaoding.png
-          description: 免费在线抠图软件,图片快速换背景-抠白底图。
 
-
-
-- taxonomy: 资讯学习
+- taxonomy: 资讯
   icon: fas fa-pencil-alt fa-lg
   list: 
-    - term: 资讯学习
+    - term: 资讯
       links:
         - title: Hacker News
           url: https://news.ycombinator.com/
@@ -137,10 +114,6 @@
           url: https://feedly.com/
           logo: RSS Reader - Feedly
           description: 国内活跃的经济、管理、金融、统计在线教育和咨询网站。
-        - title: 微信读书
-          url: https://weread.qq.com/
-          logo: 微信读书.jpg
-          description: 微信读书电脑版。
         - title: V2EX
           logo: v2ex.jpg
           url: https://www.v2ex.com/
