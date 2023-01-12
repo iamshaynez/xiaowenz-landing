@@ -100,6 +100,10 @@
           logo: 电影天堂.png
           url: https://www.olevod.com
           description: 欧乐影院
+        - title: 看了么
+          url: https://www.ksksl.com/
+          logo: 电影天堂.png
+          description: 看了么
 
 - taxonomy: 资讯
   icon: fas fa-pencil-alt fa-lg
